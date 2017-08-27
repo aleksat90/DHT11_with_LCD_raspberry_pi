@@ -1,4 +1,4 @@
-# DHT11_with_LCD_rasspberry_pi
+# DHT11 with LCD Raspberry pi
 
 On this project, DHT11 temperature and humidity sensor (boutgh on Aliexpress for 1$) is paired with Raspberry PI and LCD display.
 
