@@ -17,10 +17,10 @@ For any questions, feel free to contact me.
 
 
 ## Equipment:
-Hardware: Raspberry PI 3
-OS: Minibian 2016-03-12
-Sensor: DHT11 (3 pins) temperature and humidity
-LCD display: 16x2 with I2C PCF8574AT communication module attached
+- Hardware: Raspberry PI 3
+- OS: Minibian 2016-03-12
+- Sensor: DHT11 (3 pins) temperature and humidity
+- LCD display: 16x2 with I2C PCF8574AT communication module attached
 
 Have fun,
 Aleksa
