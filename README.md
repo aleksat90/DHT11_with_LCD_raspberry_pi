@@ -22,5 +22,12 @@ For any questions, feel free to contact me.
 - Sensor: DHT11 (3 pins) temperature and humidity
 - LCD display: 16x2 with I2C PCF8574AT communication module attached
 
+## Image:
+![20170827_dsc_0386_lr](https://user-images.githubusercontent.com/22866358/29762770-7c8f3ec0-8bd0-11e7-8ce4-cc79c01070fa.jpg)
+
+
+
 Have fun,
 Aleksa
+
+
